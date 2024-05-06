@@ -6,3 +6,4 @@ langchain-openai==0.1.6
 pdf2image==1.17.0
 pypdf==4.2.0
 unstructured==0.13.6
+unstructured[pdf]==0.13.6
